@@ -3,7 +3,8 @@
 This project showcases my end-to-end SQL skills as a Data Analyst.
 I designed and analyzed a realistic e-commerce sales database to extract business insights, track customer behavior, and identify top-performing products.
 
-Key Highlights
+Key Highlights:
+
 Built a normalized MySQL database with 4 tables 
 ->customers, products, orders, and order_items
 Performed advanced SQL analysis using JOIN, CTE, GROUP BY, DATE_FORMAT, and aggregate functions.
